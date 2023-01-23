@@ -1,4 +1,4 @@
-namespace Proyecto\Cms;
+namespace Calcu\Cms;
 
 class Calculator
 {
